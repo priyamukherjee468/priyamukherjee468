@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priya Mukherjee</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<p>Hi, I'm Priya Mukherjee, a Java developer with a focus on creating scalable and effective apps. A passionate learner skilled in Java, SQL, DSA, Spring Boot, Hibernate, and REST API. With a solid grasp of Git and GitHub, who has a desire to work with cross-functional teams to produce high-quality solutions. devoted to lifelong learning and staying current with market developments. Strong problem-solving abilities and a track record of executing projects successfully, on schedule, and under budget. Excellent communication abilities and the capacity for rapid environment change. I'm looking for new opportunities to use my knowledge and abilities to promote innovation and provide outstanding software solutions.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamukherjee468&label=Profile%20views&color=0e75b6&style=flat" alt="priyamukherjee468" /> </p>
 
