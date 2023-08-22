@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/priyamukherjee468](https://github.com/priyamukherjee468)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/priyamukherjee468)
 
 - 💬 Ask me about **DataStructure and Algorithms,SpringBoot ,Java**
 
